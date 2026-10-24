@@ -1,0 +1,21 @@
+option,line,quantity,unit_cost,per_year,amount,formula
+B,SaaS licence (10 lecturers x 15 USD x 12 months),10,15,12,1800,=C2*D2*E2
+B,One-off cost (no set-up fee assumed),1,0,1,0,=C3*D3*E3
+B,Marking time saved (300 h x 10 USD),300,10,1,3000,=C4*D4*E4
+B,Net annual benefit,,,,1200,=F4-F2
+B,Payback years,,,,0,=F3/F5
+C,Student and PM effort one-off (490 h x 10 USD notional),490,10,1,4900,=C7*D7*E7
+C,Domain and paid tools one-off (15 + 60 USD),1,75,1,75,=C8*D8*E8
+C,One-off cost total,,,,4975,=F7+F8
+C,Hosting (12 months x 25 USD),12,25,1,300,=C10*D10*E10
+C,Marking time saved (300 h x 10 USD),300,10,1,3000,=C11*D11*E11
+C,Net annual benefit,,,,2700,=F11-F10
+C,Payback years,,,,1.84,=F9/F12
+C,Annual advantage over B,,,,1500,=F12-F5
+B,SaaS licence - sensitivity (6 lecturers x 15 USD x 12 months),6,15,12,1080,=C15*D15*E15
+B,Marking time saved - sensitivity (180 h x 10 USD),180,10,1,1800,=C16*D16*E16
+B,Net annual benefit - sensitivity (6 lecturers),,,,720,=F16-F15
+B,Payback years - sensitivity (6 lecturers),,,,0,=F3/F17
+C,Marking time saved - sensitivity (180 h x 10 USD),180,10,1,1800,=C19*D19*E19
+C,Net annual benefit - sensitivity (6 lecturers),,,,1500,=F19-F10
+C,Payback years - sensitivity (6 lecturers),,,,3.32,=F9/F20
