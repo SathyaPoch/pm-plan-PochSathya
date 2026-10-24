@@ -4,7 +4,7 @@
 |---------|---------------------------|
 | Version | 0.1                       |
 | Date    | 2026-10-24                |
-| Author  | Your Name                 |
+| Author  | Poch Sathya                |
 | Status  | Draft                     |
 
 ## Files
@@ -23,7 +23,7 @@
 ## Inputs reused
 | Input                                   | Version / tag |
 |-----------------------------------------|---------------|
-| none: first lab (chapter slides, brief) | -             |
+| none: first lab  | -             |
 
 ## Change log
 | Date       | Version | Change                                                 |

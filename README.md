@@ -1,4 +1,4 @@
-# pm-plan-yourname
+# pm-plan-Poch Sathya
 
 Student: Poch SathyaY=
 Course: IT Project Management
