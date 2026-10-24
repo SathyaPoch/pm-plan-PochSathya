@@ -87,5 +87,5 @@ The PM decides alone, within the 490 h and the 200 USD: task allocation, the ord
 The PM needs the sponsor's written approval, given within 5 working days, to: add scope (anything listed as out of scope, or a new Must feature), move the week-7 demo or the week-14 pilot, spend beyond the 200 USD cash cap or the reserve, or change the team members.
 
 ## 10. Approval
-Sponsor: ____________________  Date: ________
-PM:      ____________________  Date: ________
+Sponsor: Head of the IT department   Date: 25/10/2026
+PM: Supervising lecturer   Date: 25/10/2026
